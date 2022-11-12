@@ -33,4 +33,3 @@ function start_ai()
             s1 = solution[i].state
     }
 }
-
